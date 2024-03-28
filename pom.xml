@@ -69,5 +69,6 @@
         <module>pruebas-step-verifier</module>
         <module>prueba-servicios</module>
         <module>contrapresion</module>
+        <module>transformacion-flujos</module>
     </modules>
 </project>
