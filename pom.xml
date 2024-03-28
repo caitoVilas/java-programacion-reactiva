@@ -67,5 +67,6 @@
     <modules>
         <module>introduccion</module>
         <module>pruebas-step-verifier</module>
+        <module>prueba-servicios</module>
     </modules>
 </project>
