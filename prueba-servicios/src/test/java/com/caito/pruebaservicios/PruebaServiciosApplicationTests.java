@@ -1,7 +1,6 @@
 package com.caito.pruebaservicios;
 
 import com.caito.pruebaservicios.services.SimplyService;
-import lombok.RequiredArgsConstructor;
 import org.junit.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
