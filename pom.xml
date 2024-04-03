@@ -70,5 +70,6 @@
         <module>prueba-servicios</module>
         <module>contrapresion</module>
         <module>transformacion-flujos</module>
+        <module>manejo-excepciones</module>
     </modules>
 </project>
