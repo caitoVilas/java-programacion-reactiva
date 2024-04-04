@@ -71,5 +71,6 @@
         <module>contrapresion</module>
         <module>transformacion-flujos</module>
         <module>manejo-excepciones</module>
+        <module>hot-cold-publishers</module>
     </modules>
 </project>
