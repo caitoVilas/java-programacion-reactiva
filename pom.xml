@@ -72,5 +72,6 @@
         <module>transformacion-flujos</module>
         <module>manejo-excepciones</module>
         <module>hot-cold-publishers</module>
+        <module>api-rest-reactiva-anotaciones</module>
     </modules>
 </project>
