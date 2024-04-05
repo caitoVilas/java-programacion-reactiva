@@ -73,5 +73,6 @@
         <module>manejo-excepciones</module>
         <module>hot-cold-publishers</module>
         <module>api-rest-reactiva-anotaciones</module>
+        <module>api-rest-reactive-mongo</module>
     </modules>
 </project>
